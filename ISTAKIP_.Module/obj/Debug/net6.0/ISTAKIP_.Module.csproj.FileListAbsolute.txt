@@ -1,0 +1,12 @@
+C:\Users\Asus\source\repos\ISTAKIP\ISTAKIP_.Module\obj\Debug\net6.0\ISTAKIP_.Module.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\ISTAKIP\ISTAKIP_.Module\obj\Debug\net6.0\ISTAKIP_.Module.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\ISTAKIP\ISTAKIP_.Module\obj\Debug\net6.0\ISTAKIP_.Module.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\ISTAKIP\ISTAKIP_.Module\obj\Debug\net6.0\ISTAKIP_.Module.AssemblyInfo.cs
+C:\Users\Asus\source\repos\ISTAKIP\ISTAKIP_.Module\obj\Debug\net6.0\ISTAKIP_.Module.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\ISTAKIP\ISTAKIP_.Module\bin\Debug\net6.0\ISTAKIP_.Module.deps.json
+C:\Users\Asus\source\repos\ISTAKIP\ISTAKIP_.Module\bin\Debug\net6.0\ISTAKIP_.Module.dll
+C:\Users\Asus\source\repos\ISTAKIP\ISTAKIP_.Module\bin\Debug\net6.0\ISTAKIP_.Module.pdb
+C:\Users\Asus\source\repos\ISTAKIP\ISTAKIP_.Module\obj\Debug\net6.0\ISTAKIP_.Module.dll
+C:\Users\Asus\source\repos\ISTAKIP\ISTAKIP_.Module\obj\Debug\net6.0\refint\ISTAKIP_.Module.dll
+C:\Users\Asus\source\repos\ISTAKIP\ISTAKIP_.Module\obj\Debug\net6.0\ISTAKIP_.Module.pdb
+C:\Users\Asus\source\repos\ISTAKIP\ISTAKIP_.Module\obj\Debug\net6.0\ref\ISTAKIP_.Module.dll

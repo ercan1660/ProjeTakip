@@ -1,0 +1,273 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Asus\\source\\repos\\ISTAKIP\\ISTAKIP_.Blazor.Server\\ISTAKIP_.Blazor.Server.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Asus\\source\\repos\\ISTAKIP\\ISTAKIP_.Blazor.Server\\ISTAKIP_.Blazor.Server.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Asus\\source\\repos\\ISTAKIP\\ISTAKIP_.Blazor.Server\\ISTAKIP_.Blazor.Server.csproj",
+        "projectName": "ISTAKIP_.Blazor.Server",
+        "projectPath": "C:\\Users\\Asus\\source\\repos\\ISTAKIP\\ISTAKIP_.Blazor.Server\\ISTAKIP_.Blazor.Server.csproj",
+        "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Asus\\source\\repos\\ISTAKIP\\ISTAKIP_.Blazor.Server\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 22.1.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\DevExpress 22.1\\Components\\System\\Components\\Packages": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Asus\\source\\repos\\ISTAKIP\\ISTAKIP_.Module\\ISTAKIP_.Module.csproj": {
+                "projectPath": "C:\\Users\\Asus\\source\\repos\\ISTAKIP\\ISTAKIP_.Module\\ISTAKIP_.Module.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "DevExpress.ExpressApp.Blazor": {
+              "target": "Package",
+              "version": "[22.1.4, )"
+            },
+            "DevExpress.ExpressApp.CodeAnalysis": {
+              "target": "Package",
+              "version": "[22.1.4, )"
+            },
+            "DevExpress.ExpressApp.Dashboards.Blazor": {
+              "target": "Package",
+              "version": "[22.1.4, )"
+            },
+            "DevExpress.ExpressApp.FileAttachment.Blazor": {
+              "target": "Package",
+              "version": "[22.1.4, )"
+            },
+            "DevExpress.ExpressApp.Office.Blazor": {
+              "target": "Package",
+              "version": "[22.1.4, )"
+            },
+            "DevExpress.ExpressApp.ReportsV2.Blazor": {
+              "target": "Package",
+              "version": "[22.1.4, )"
+            },
+            "DevExpress.ExpressApp.Security.Xpo": {
+              "target": "Package",
+              "version": "[22.1.4, )"
+            },
+            "DevExpress.ExpressApp.Validation.Blazor": {
+              "target": "Package",
+              "version": "[22.1.4, )"
+            },
+            "MudBlazor": {
+              "target": "Package",
+              "version": "[6.16.0, )"
+            },
+            "Syncfusion.Blazor.Themes": {
+              "target": "Package",
+              "version": "[24.2.8, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Asus\\source\\repos\\ISTAKIP\\ISTAKIP_.Module\\ISTAKIP_.Module.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Asus\\source\\repos\\ISTAKIP\\ISTAKIP_.Module\\ISTAKIP_.Module.csproj",
+        "projectName": "ISTAKIP_.Module",
+        "projectPath": "C:\\Users\\Asus\\source\\repos\\ISTAKIP\\ISTAKIP_.Module\\ISTAKIP_.Module.csproj",
+        "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Asus\\source\\repos\\ISTAKIP\\ISTAKIP_.Module\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 22.1.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\DevExpress 22.1\\Components\\System\\Components\\Packages": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "DevExpress.ExpressApp": {
+              "target": "Package",
+              "version": "[22.1.4, )"
+            },
+            "DevExpress.ExpressApp.AuditTrail.Xpo": {
+              "target": "Package",
+              "version": "[22.1.4, )"
+            },
+            "DevExpress.ExpressApp.Chart": {
+              "target": "Package",
+              "version": "[22.1.4, )"
+            },
+            "DevExpress.ExpressApp.CloneObject.Xpo": {
+              "target": "Package",
+              "version": "[22.1.4, )"
+            },
+            "DevExpress.ExpressApp.CodeAnalysis": {
+              "target": "Package",
+              "version": "[22.1.4, )"
+            },
+            "DevExpress.ExpressApp.ConditionalAppearance": {
+              "target": "Package",
+              "version": "[22.1.4, )"
+            },
+            "DevExpress.ExpressApp.Dashboards": {
+              "target": "Package",
+              "version": "[22.1.4, )"
+            },
+            "DevExpress.ExpressApp.Kpi": {
+              "target": "Package",
+              "version": "[22.1.4, )"
+            },
+            "DevExpress.ExpressApp.Notifications": {
+              "target": "Package",
+              "version": "[22.1.4, )"
+            },
+            "DevExpress.ExpressApp.Objects": {
+              "target": "Package",
+              "version": "[22.1.4, )"
+            },
+            "DevExpress.ExpressApp.Office": {
+              "target": "Package",
+              "version": "[22.1.4, )"
+            },
+            "DevExpress.ExpressApp.PivotChart": {
+              "target": "Package",
+              "version": "[22.1.4, )"
+            },
+            "DevExpress.ExpressApp.PivotGrid": {
+              "target": "Package",
+              "version": "[22.1.4, )"
+            },
+            "DevExpress.ExpressApp.ReportsV2": {
+              "target": "Package",
+              "version": "[22.1.4, )"
+            },
+            "DevExpress.ExpressApp.Scheduler": {
+              "target": "Package",
+              "version": "[22.1.4, )"
+            },
+            "DevExpress.ExpressApp.ScriptRecorder": {
+              "target": "Package",
+              "version": "[22.1.4, )"
+            },
+            "DevExpress.ExpressApp.Security.Xpo": {
+              "target": "Package",
+              "version": "[22.1.4, )"
+            },
+            "DevExpress.ExpressApp.StateMachine": {
+              "target": "Package",
+              "version": "[22.1.4, )"
+            },
+            "DevExpress.ExpressApp.TreeListEditors": {
+              "target": "Package",
+              "version": "[22.1.4, )"
+            },
+            "DevExpress.ExpressApp.Validation": {
+              "target": "Package",
+              "version": "[22.1.4, )"
+            },
+            "DevExpress.ExpressApp.ViewVariantsModule": {
+              "target": "Package",
+              "version": "[22.1.4, )"
+            },
+            "DevExpress.ExpressApp.Xpo": {
+              "target": "Package",
+              "version": "[22.1.4, )"
+            },
+            "DevExpress.Persistent.Base": {
+              "target": "Package",
+              "version": "[22.1.4, )"
+            },
+            "DevExpress.Persistent.BaseImpl.Xpo": {
+              "target": "Package",
+              "version": "[22.1.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
