@@ -4,4 +4,4 @@ Sizler için .Net ve XPO frameworkü ile geliştirmiş olduğum
  dashboard ile demirbaşlarınızıda kontrol altına alabilirsiniz.
 
 keyifli indirmeler. :)
-https://github.com/ercan1660/ProjeTakip_.git
+https://github.com/ercan1660/ProjeTakip.git
